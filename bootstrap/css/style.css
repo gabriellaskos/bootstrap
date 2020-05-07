@@ -1,0 +1,30 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+
+
+.navbar {
+    background-color: chartreuse;
+}
+
+.who-wheare{
+    background-color: cyan;
+    color: tomato;
+}
+
+.margin{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    
+}
+
+.partners{
+    background-color: teal;
+    color:white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: blanchedalmond;
+}
